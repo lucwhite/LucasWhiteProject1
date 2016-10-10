@@ -25,7 +25,7 @@ function setup() {
 function draw() {
 
   //for (int j = 0; j > 100; j++) {
-  background(200, 175, 175);
+  background(200, 175, 175, 66);
 
   if (yMin == yMax) {
     asleep();
